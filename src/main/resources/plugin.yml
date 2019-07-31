@@ -1,0 +1,7 @@
+name: uSkyIRC
+main: ${project.groupId}.${project.artifactId}
+version: ${project.version}
+description: uSkyBlock to CraftIRC 3 bridge v${project.version}
+author: "Linkforsoad (GH: Muspah)"
+api-version: 1.14
+depend: [CraftIRC, uSkyBlock]
